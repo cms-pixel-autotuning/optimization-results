@@ -133,5 +133,5 @@
     "social_coefficient": 1,
     "max_iter_no_improv": null,
     "optimization_mode": "global",
-    "iteration": 50
+    "iteration": 100
 }
