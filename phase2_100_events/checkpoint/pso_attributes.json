@@ -131,7 +131,8 @@
     "inertia_weight": 0.5,
     "cognitive_coefficient": 1,
     "social_coefficient": 1,
+    "diversity_coefficient": 0.2,
     "max_iter_no_improv": null,
     "optimization_mode": "global",
-    "iteration": 100
+    "iteration": 400
 }
