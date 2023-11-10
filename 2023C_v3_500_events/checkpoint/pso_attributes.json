@@ -54,7 +54,7 @@
         1000
     ],
     "num_objectives": 2,
-    "num_particles": 200,
+    "num_particles": 100,
     "num_params": 25,
     "inertia_weight": 0.5,
     "cognitive_coefficient": 1,
@@ -62,5 +62,5 @@
     "diversity_coefficient": 0.2,
     "max_iter_no_improv": null,
     "optimization_mode": "global",
-    "iteration": 20
+    "iteration": 50
 }
